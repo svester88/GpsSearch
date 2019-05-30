@@ -1,0 +1,8 @@
+<RCC>
+  <qresource>
+     <file>settings.png</file>
+  </qresource>
+  <qresource>
+     <file>eraser.png</file>
+  </qresource>
+</RCC>
