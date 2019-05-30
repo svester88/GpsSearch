@@ -1,0 +1,2 @@
+This is a simple plugin to be used with QGIS versions 3.0 or higher. The plugin may work with older versions but it has not been tested. 
+I created this plugin as a simple tool for my co-workers to use. Therefore there may be bugs. Additionaly the code may not be the cleanest or most efficient. If you would like to improve upon it, please do.
