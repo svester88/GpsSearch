@@ -11,21 +11,19 @@
 [general]
 name=GpsSearch
 qgisMinimumVersion=3.0
-description=Plugin to zoom the user to a specific lat-long
-about=This Plugin to zoom the user to a specific lat-long
+description=Plugin that searches for a specific lat-long and places a marker there.
+about=Simple plugin that searches for a specific lat-long
 version=1.4.2
 
 #### Optional items:
 
 # changelog=
-#homepage=https://github.com/borysiasty/plugin_reloader
-#tracker=https://github.com/borysiasty/plugin_reloader/issues
-#repository=https://github.com/borysiasty/plugin_reloader
+#homepage=https://github.com/svester88/GpsSearch
+#tracker=https://github.com/svester88/GpsSearch/issues
+#repository=https://github.com/svester88/GpsSearch
 
 # tags are comma separated with spaces allowed
-#tags=reloader, reload, python, development, developer
-
-#icon=icon.png
+tags=GPS, Latitude, Longitude, Coordinates, Search
 
 experimental=True
 
@@ -35,4 +33,4 @@ deprecated=False
 # Author contact information
 author=Shaun Vester
 email=svester@cmec.coop
-category=Tools
+category=Vector
